@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # User Settings
-my_config.py
-user_ids.txt
+config.py
+log.txt
