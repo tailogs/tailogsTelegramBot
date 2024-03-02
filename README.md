@@ -1,5 +1,5 @@
-# telegram-bot
-telegram-bot - код <a href="https://t.me/TailogsTelegramBot">моего телеграм бота</a>
+# tailogsTelegramBot
+tailogsTelegramBot – - код <a href="https://t.me/TailogsTelegramBot">моего телеграм бота</a>
 
 Пользуюсь услугами <a href="https://hostvds.com/">этого хостинга</a> и полностью доволен. Кручу на `ubuntu`.
 
@@ -8,7 +8,7 @@ telegram-bot - код <a href="https://t.me/TailogsTelegramBot">моего те�
 Чтобы установить эту программу, вам необходимо скопировать этот репозиторий в выбранную вами директорию с помощью команды:
 
 ```git
-git clone https://github.com/tailogs/telegram-bot.git
+git clone https://github.com/tailogs/tailogsTelegramBot.git
 ```
 
 ---
